@@ -21,7 +21,8 @@ Cada decisión, cada distracción, consume willpower
 
 > No tener willpower no es una señal de fracaso o debilidad, es solo BIOLOGÍA
 #### Lock the 3 variables
-> [!IMPORTANT] Time, place, trigger
+> [!IMPORTANT]
+> Time, place, trigger
 
 Si quieres deep work, pone un calendario, apaga las notificaciones, pone el mismo playlist
 > sistemas simples son los mas difíciles de romper
@@ -50,12 +51,14 @@ what happens if your brain try to bypass the system entirely
 ###  Principle #5: Become the system
 monks have the brains waves synchronized with each other across all the individuals
 
-> [!IMPORTANT] Motivation doesn't drive repetition, repetition drives motivation
+> [!IMPORTANT]
+> Motivation doesn't drive repetition, repetition drives motivation
 
 That's how You become the person who does the hard things over and over again. But it almost seems effortless. Because the repetitions
 Once the pattern takes over, your brain stop chasing the reward. It starts craving the repetition itself
 
-> [!NOTE] Build the right systems, and those systems will build the right you.
+> [!NOTE]
+> Build the right systems, and those systems will build the right you.
 
 
 # Systems
