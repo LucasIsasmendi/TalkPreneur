@@ -1,3 +1,8 @@
+
+# Systems
+> **You don't rise to the level of your goals. You fall to the level of the systems you put in place**
+  - Curadoria, é a nova inteligência!
+
 ## Success Is Hard Until You Build Systems Like This
 https://www.youtube.com/watch?v=p3F-1QyvHnY
 
@@ -60,10 +65,6 @@ Once the pattern takes over, your brain stop chasing the reward. It starts cravi
 > [!NOTE]
 > Build the right systems, and those systems will build the right you.
 
-
-# Systems
-> **You don't rise to the level of your goals. You fall to the level of the systems you put in place**
-  - Curadoria, é a nova inteligência!
 
 
 
