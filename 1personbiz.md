@@ -50,14 +50,16 @@ Ejemplo: cursor tiene un feedback loop que analiza keystrokes de sus usuarios y 
 ### Step 4 - The Mindset
 > Acepta el miedo, la duda y hacelo igual.
 
-> [!IMPORTANT] La pregunta mas importante: cuando este en mi lecho de muerte, cuál será mi mayor arrepentimiento?
+> [!IMPORTANT]
+> La pregunta mas importante: cuando este en mi lecho de muerte, cuál será mi mayor arrepentimiento?
 
 AI is gonna change every industry and it;s changing almost every career.
 Estamos en este momento del tiempo donde IA casi se vuelve más inteligente qeu cualquier humano.
 In this new world, What will you bring to the table? Your taste, purpose, relationships, judgement, critical thinking
 Cosas que la IA no puede replicar o automatizar.
 
-> [!DANGER] When you have self doubts, that is the mindset shift you have to make. You don't need permission from others. The voice in your head will always force you to pick regret over risk. You need to allow yourself to succeed
+> [!DANGER]
+> When you have self doubts, that is the mindset shift you have to make. You don't need permission from others. The voice in your head will always force you to pick regret over risk. You need to allow yourself to succeed
 
 The risks you take and fail, have much less impact than the risks you fail to take
 
